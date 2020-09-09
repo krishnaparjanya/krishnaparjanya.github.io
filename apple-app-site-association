@@ -1,10 +1,6 @@
-HTTP/1.1 200 OK
-Server: nginx/1.10.1
-Content-Type: application/pkcs7-mime
-
 {
  "applinks":{
-   "apps":[B2TWTY7FP9.com.parjanya.Vedike],
+   "apps":[],
    "details":[
                {
                   "appID":"B2TWTY7FP9.com.parjanya.Vedike",
