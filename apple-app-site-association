@@ -1,0 +1,14 @@
+{
+ "applinks":{
+   "apps":[],
+   "details":[
+               {
+                  "appID":"B2TWTY7FP9.com.parjanya.Vedike",
+                  "paths":["NOT /_/*","/*"]
+               }
+              ]
+            },
+  "appclips": {
+        "apps": ["B2TWTY7FP9.com.parjanya.Vedike.Clip"]
+    }
+}
